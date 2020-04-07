@@ -1,0 +1,3 @@
+No se puede ver el archivo tp2_1_2.cpp ya que lo que se muestra en la carpeta es lo que hay en master, si cambio al branch Opcion_2 voy a poder ver el archivo, pero no va a aparecer lo que hay en master.
+Con el comando gitk se puede ver el historial de lo que se hizo, tanto en master como en Opcion_2. El comando me mostraba lo mismo en ambos branchs.
+Ya que se hizo el merge de Opcion_2 y master, se puede ver graficamente como se combinaron ambos branchs.
